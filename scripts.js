@@ -53,6 +53,6 @@ const cleanGrid = () => {
 }
 
 
-newGrid(2)
+newGrid(3)
 newGridButton.addEventListener('click', changeGrid)
 cleanGridButton.addEventListener('click', cleanGrid)
